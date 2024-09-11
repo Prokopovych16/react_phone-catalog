@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.62331098.css",
-    "main.js": "./static/js/main.a816a175.js",
+    "main.js": "./static/js/main.d431b6eb.js",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
     "static/media/iphone12-logo.jpg": "./static/media/iphone12-logo.c87ea003628d6574b7ef.jpg",
     "index.html": "./index.html",
     "main.62331098.css.map": "./static/css/main.62331098.css.map",
-    "main.a816a175.js.map": "./static/js/main.a816a175.js.map"
+    "main.d431b6eb.js.map": "./static/js/main.d431b6eb.js.map"
   },
   "entrypoints": [
     "static/css/main.62331098.css",
-    "static/js/main.a816a175.js"
+    "static/js/main.d431b6eb.js"
   ]
 }
